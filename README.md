@@ -1,2 +1,2 @@
 # LyaControl
-The codes and data are to be noted  
+The codes and data are to be noted and edited ...
