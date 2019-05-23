@@ -1,2 +1,2 @@
 # LyaControl
-The codes and data for the work are being prepared to upload. 
+The codes and data are to be noted  
